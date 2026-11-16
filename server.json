@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "hr.crnojaje/ponude",
+  "title": "Crno Jaje",
+  "description": "Crno Jaje's deals online now in Croatia: stays, spa, trips, beauty, food, with prices and discounts",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.crnojaje.hr",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.crnojaje.hr/mcp"
+    }
+  ]
+}

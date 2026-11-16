@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crnojaje": {
+      "type": "http",
+      "url": "https://www.crnojaje.hr/mcp"
+    }
+  }
+}
